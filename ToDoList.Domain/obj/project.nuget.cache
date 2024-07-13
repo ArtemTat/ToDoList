@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "M0Yjj55rbBsxVKap5aanhyOEVCC86AoGDQRKqlSKhOrctECj+bgeflpGdH9avdRQn9AHUYvCvT5Nq2yhMlAsUg==",
+  "dgSpecHash": "fXR2lPzay0PV+4LY6s0gMG8hnO7ogVsZEaJpzNWVTWoJ4TCtkaboy093PfsYZnAfPq1Gpx3dHE+98ZY1rtagAw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\dondi\\source\\repos\\home-tasks\\ToDo\\ToDoList.Domain\\ToDoList.Domain.csproj",
+  "projectFilePath": "C:\\Users\\dondi\\source\\repos\\ToDoList\\ToDoList.Domain\\ToDoList.Domain.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

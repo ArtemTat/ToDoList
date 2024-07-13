@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "XbPVLjbwl0f5sdmWsBbss5WSPk+Wt9OU2/IQhoKuPOmrmeRmXI/PkaoyzaiQuhvcmqduyo1hP+g9gIC0rlaYLQ==",
+  "dgSpecHash": "XOL6fjGHLUuk8qxSYusVvQCk4LMWhrelq+3Q3CF66FmrcBuhkZTbhGtnuWifcIodw+enPDsWDeTEA3CSezjXmg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\dondi\\source\\repos\\home-tasks\\ToDo\\ToDoList.DAL\\ToDoList.DAL.csproj",
+  "projectFilePath": "C:\\Users\\dondi\\source\\repos\\ToDoList\\ToDoList.DAL\\ToDoList.DAL.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\dondi\\.nuget\\packages\\microsoft.entityframeworkcore\\7.0.20\\microsoft.entityframeworkcore.7.0.20.nupkg.sha512",
     "C:\\Users\\dondi\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\7.0.20\\microsoft.entityframeworkcore.abstractions.7.0.20.nupkg.sha512",

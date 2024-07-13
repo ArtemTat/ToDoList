@@ -1,5 +1,5 @@
 ﻿using Microsoft.AspNetCore.Mvc;
-
+using ToDoList.Domain.VievModels.Task;
 namespace ToDoList.Controllers
 {
     public class TaskController : Controller
@@ -10,6 +10,10 @@ namespace ToDoList.Controllers
             return View();
         }
 
-        
+        [HttpPost]
+        public async Task<IActionResult> Create(CreateTaskVievModel model)
+        {
+            return Ok();
+        }
     }
 }
